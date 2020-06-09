@@ -11,14 +11,14 @@ The project objective is not expected to explore all of the variables in the dat
 ## Summary of Findings
 
 
-•LoanStatus of all Borrowers are with current and completed state
+* LoanStatus of all Borrowers are with current and completed state
 •EmploymentStatus of all Borrowers are with Employed State
 •Majority of the loan applicants are from 50K to 75K range with emloyeed status
 •The distribution of monthly income of applicants is a right skewed because there will be few applicants with high salary. 
 •Applicants with incomerange of 50K to 75K range have their prosper rating falling under AA, A, B and C 
 •LoanStatus with current and completed have own homes when they applied for loans
 •The monthly income of borrowers are having higher values for employed, other and full time employment status with the prosper rating of AA, A and B
-•We observe that without homeowner tend to have a higher interest rate, and thus lower rating.However homeowner tends to have lower interest rate and higher rating. So we can safely say that homeowner is safest bet when gving a loan. We can also clearly observe that HR prosper rating applicants have higher interest rates
+* We observe that without homeowner tend to have a higher interest rate, and thus lower rating.However homeowner tends to have lower interest rate and higher rating. So we can safely say that homeowner is safest bet when gving a loan. We can also clearly observe that HR prosper rating applicants have higher interest rates
 
 
 ## Key Insights for Presentation
